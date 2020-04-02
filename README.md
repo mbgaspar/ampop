@@ -1,1 +1,1 @@
-# Artigos sobre amplificador operacional
+# Matérial e artigo sobre amplificador operacional
